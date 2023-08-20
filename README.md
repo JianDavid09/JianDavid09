@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julian</h1>
-<h3 align="center">a PhD student in mathematics with a passion for data science</h3>
+<h3 align="center">a PhD math student passionate about data science</h3>
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/juliandavidcandela/about-me](https://sites.google.com/view/juliandavidcandela/about-me)
 
